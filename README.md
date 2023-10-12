@@ -44,5 +44,5 @@ To Run
 
 ## Feedback
 
-If you have any feedback, please reach out to us at b_alaidar@kbtu.kz
+If you have any feedback, please reach out to me at b_alaidar@kbtu.kz
 
