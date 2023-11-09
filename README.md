@@ -16,7 +16,7 @@ To show the knowledge of using OOP and stick to principles of SOLID.
 - Authentication, Login, Sign Up
 - The system has two mode: Admin and User
 - Admin can see all users and their personal data, create a new quizes (questions).
-- User can see leader board (each user and their ponts), pass the quiz aand see the result
+- User can see leader board (each user and their points), pass the quiz aand see the result
 - Additionally added filters (sorting classes)
 
 
